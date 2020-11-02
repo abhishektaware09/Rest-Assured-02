@@ -1,0 +1,58 @@
+2020-11-02 20:50:28,916 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-11-02 20:51:25,796 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 0 project(s) in 0 sec
+2020-11-02 20:52:19,640 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Abhishek\Desktop\Client assignment 2\01\pom.xml
+2020-11-02 20:52:22,396 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAssured02:01:0.0.1-SNAPSHOT @ C:\Users\Abhishek\Desktop\Client assignment 2\01\pom.xml.
+2020-11-02 20:52:24,240 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01/src/main/java
+2020-11-02 20:52:24,271 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01/src/test/java
+2020-11-02 20:52:27,125 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-11-02 20:52:28,150 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-02 20:52:28,150 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:52:28,150 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-02 20:52:28,150 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:53:24,836 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Abhishek\Desktop\Client assignment 2\01
+2020-11-02 20:53:24,851 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-11-02 20:53:34,121 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-02 20:53:34,121 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:53:34,121 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-02 20:53:34,121 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:55:19,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-02 20:55:19,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:55:19,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-02 20:55:19,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:56:05,645 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAssured02:01:0.0.1-SNAPSHOT @ C:\Users\Abhishek\Desktop\Client assignment 2\01\pom.xml.
+2020-11-02 20:56:07,573 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:07,588 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:56:07,588 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:07,604 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:56:10,543 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:10,668 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:56:10,684 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:10,699 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:56:55,561 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:55,616 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:56:55,616 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:55,632 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:56:56,754 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:56,772 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:56:56,778 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:56:56,796 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:58:30,377 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:58:30,394 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:58:30,429 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:58:30,446 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 20:59:59,753 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:59:59,769 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 20:59:59,769 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 20:59:59,784 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 21:02:00,662 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 21:02:00,677 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 21:02:00,681 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 21:02:00,690 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 21:02:50,773 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 21:02:50,788 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 21:02:50,788 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 21:02:50,804 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
+2020-11-02 21:04:33,658 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 21:04:33,658 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\main\resources
+2020-11-02 21:04:33,673 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-02 21:04:33,673 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhishek\Desktop\Client assignment 2\01\src\test\resources
